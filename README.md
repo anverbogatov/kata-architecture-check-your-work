@@ -14,6 +14,7 @@
   - [С4: Context Diagram](#c4-диаграмма-контекста)
   - [UML: Use Cases Diagram](#uml-диаграмма-use-caseов)
   - [Actors-Actions: Use Cases Diagram](#actors-actions-диаграмма-акторов-и-их-действий)
+- [Запись Архитектурных Решений (ADR)](#запись-архитектурных-решений-adr)
 
 ## Описание архитектурной ката
 
@@ -146,3 +147,10 @@
 **Actors-Actions** - это универсальный способ для поиска архитектурных компонентов.
 
 ![Сценарии](diagrams/Actors-Actions-Use-Case.png)
+
+## Запись Архитектурных Решений (ADR)
+
+
+| Код     | Описание                                                                   |
+|---------|----------------------------------------------------------------------------|
+| ADR#001 | [Использование архитектурного паттерна "Монолит" для реализации системы](https://github.com/anverbogatov/kata-architecture-check-your-work/blob/main/adr/0001-base-architecture-pattern.md) |
